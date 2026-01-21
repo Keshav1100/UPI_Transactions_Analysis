@@ -9,11 +9,12 @@ The goal of this project is to demonstrate **data cleaning, modeling, visualizat
 ---
 
 ## Project Files
-###UPI-Transactions-Analysis
-│
+<pre>
+UPI-Transactions-Analysis
 ├── UPI_Transactions_Analysis.pbix # Power BI Dashboard file
 ├── UPI Transactions.xlsx # Source dataset
 └── README.md # Project documentation
+</pre>
 ---
 
 ## Dataset Description
